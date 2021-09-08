@@ -19,3 +19,19 @@ I learnt quite a few things during this time including:
 - CSV
 
 
+## Data Sources
+- League
+- Teams
+- Players
+
+
+
+## Statistics & Visuals
+
+The app contains the following stats:
+
+- League Standings 
+- Top Scorers
+- Top Assists
+- Most/Least Goals Scored by Team
+- Most/Least Goals Conceded by Team
