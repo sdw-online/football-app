@@ -1,0 +1,5 @@
+This version of source files require further refinement/refactoring
+
+- Add "for" loops to extract data from RapidAPI 
+- Rename the mini & sub-dataframes to improve code readability
+- Include indentation in the right areas of your code 
