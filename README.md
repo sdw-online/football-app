@@ -35,3 +35,12 @@ The app contains the following stats:
 - Top Assists
 - Most/Least Goals Scored by Team
 - Most/Least Goals Conceded by Team
+
+
+## Plan of Action 
+
+- Design a wireframe ofthe football app including the stats you want to visualize as graphs and charts
+- Visualize them in Jupyter Lab/Notebook
+- Wrap a Dash app around the graphs and charts 
+- Deploy to Heroku 
+- Document each stage of the app (from concept to deployment)
