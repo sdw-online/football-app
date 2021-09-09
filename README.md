@@ -46,3 +46,7 @@ The app contains the following stats:
 - Top Assists
 - Most/Least Goals Scored by Team
 - Most/Least Goals Conceded by Team
+- Most/Least Shots (on Target) by Team
+- Most/Least Passes Completed 
+- Most/Least Clean Sheets
+- Best/Worst Defensive team
