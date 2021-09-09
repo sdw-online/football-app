@@ -20,10 +20,21 @@ I learnt quite a few things during this time including:
 
 
 ## Data Sources
+
+`RapidAPI` is the main source for our football statistics, which would be divided into:
 - League
 - Teams
 - Players
 
+
+
+## Plan of Action 
+
+- Design a wireframe ofthe football app including the stats you want to visualize as graphs and charts
+- Visualize them in Jupyter Lab/Notebook
+- Wrap a Dash app around the graphs and charts 
+- Deploy to Heroku 
+- Document each stage of the app (from concept to deployment)
 
 
 ## Statistics & Visuals
@@ -35,12 +46,3 @@ The app contains the following stats:
 - Top Assists
 - Most/Least Goals Scored by Team
 - Most/Least Goals Conceded by Team
-
-
-## Plan of Action 
-
-- Design a wireframe ofthe football app including the stats you want to visualize as graphs and charts
-- Visualize them in Jupyter Lab/Notebook
-- Wrap a Dash app around the graphs and charts 
-- Deploy to Heroku 
-- Document each stage of the app (from concept to deployment)
