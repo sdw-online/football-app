@@ -2,7 +2,7 @@
 Football stats on the top leagues, teams and players in Europe for the 2021-22 season 
 
 
-The prototype of this app was built in R using the Rshiny package. This took around a month to build when I was learning about R (January 2021). 
+During January 2021, I committed myself to learning R for the first time by building the prototype of the football app using the `rshiny` package (and other modules to assist with the MVP). 
 
 I learnt quite a few things during this time including:
 
