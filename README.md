@@ -29,6 +29,7 @@ I learnt quite a few things during this time including:
 
 
 ## Plan of Action 
+It is always important to establish the steps you need to take in your projects, so here are the stages we need to successfully implement this app:
 
 - Design a wireframe ofthe football app including the stats you want to visualize as graphs and charts
 - Visualize them in Jupyter Lab/Notebook
