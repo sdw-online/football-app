@@ -21427,6 +21427,26 @@ players = pd.concat([prem_league_players,
 
 
 
+#############################################################################################################################################################################################################
+# SAVE LEAGUE TABLES INTO CSV FILES 
+
+"""
+
+1. Change working directory using the 'os' library
+2. Save data frame outputs as CSV files 
+3. Revert directory to original path
+
+
+"""
+
+players.to_csv('D:/Projects/Python/Football/Players/all_players.csv', index = False)
+
+prem_league_players.to_csv('D:/Projects/Python/Football/Players/Premier League/outputs/2021-2022/prem_league_players.csv', index = False)
+bundesliga_players.to_csv('D:/Projects/Python/Football/Players/Bundesliga/outputs/2021-2022/bundesliga_players.csv', index = False)
+la_liga_players.to_csv('D:/Projects/Python/Football/Players/La Liga/outputs/2021-2022/la_liga_players.csv', index = False)
+serie_a_players.to_csv('D:/Projects/Python/Football/Players/Serie A/outputs/2021-2022/serie_a_players.csv', index = False)
+ligue_1_players.to_csv('D:/Projects/Python/Football/Players/Ligue 1/outputs/2021-2022/ligue_1_players.csv', index = False)
+
 
 
 
