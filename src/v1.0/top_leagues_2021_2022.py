@@ -454,6 +454,9 @@ ligue_1_table = df
 # Grand Total =    98
 ############################################################################################################################################################################################
 
-# All 5 LEAGUES in ONE data frame
-# leagues <- rbind(prem_table, la_liga_table, bundesliga_table, ligue_1_table, serie_a_table)
+prem_league_table.to_csv('D:/Projects/Python/Football/Leagues/Premier League/outputs/2021-2022/prem_league_table.csv', index = False)
+bundesliga_table.to_csv('D:/Projects/Python/Football/Leagues/Bundesliga/outputs/2021-2022/bundesliga_table.csv', index = False)
+la_liga_table.to_csv('D:/Projects/Python/Football/Leagues/La Liga/outputs/2021-2022/la_liga_table.csv', index = False)
+serie_a_table.to_csv('D:/Projects/Python/Football/Leagues/Serie A/outputs/2021-2022/serie_a_table.csv', index = False)
+ligue_1_table.to_csv('D:/Projects/Python/Football/Leagues/Ligue 1/outputs/2021-2022/ligue_1_table.csv', index = False)
 
