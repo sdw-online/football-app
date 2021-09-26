@@ -33,7 +33,7 @@ import os
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"42","season":"2021","page":"1"} # change page no to find other players per team 
@@ -133,7 +133,7 @@ arsenal_players1 = arsenal_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"42","season":"2021","page":"2"} # change page no to find other players per team 
@@ -229,7 +229,7 @@ arsenal_players2 = arsenal_players2.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"42","season":"2021","page":"3"} # change page no to find other players per team 
@@ -334,7 +334,7 @@ arsenal_players.reset_index(inplace=True, drop=True) # the index will keep resta
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"66","season":"2021","page":"1"} # change page no to find other players per team 
@@ -434,7 +434,7 @@ aston_villa_players1 = aston_villa_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"66","season":"2021","page":"2"} # change page no to find other players per team 
@@ -551,7 +551,7 @@ aston_villa_players.reset_index(inplace=True, drop=True) # the index will keep r
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"55","season":"2021","page":"1"} # change page no to find other players per team 
@@ -651,7 +651,7 @@ brentford_players1 = brentford_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"55","season":"2021","page":"2"} # change page no to find other players per team 
@@ -766,7 +766,7 @@ brentford_players.reset_index(inplace=True, drop=True) # the index will keep res
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"51","season":"2021","page":"1"} # change page no to find other players per team 
@@ -866,7 +866,7 @@ brighton_players1 = brighton_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"51","season":"2021","page":"2"} # change page no to find other players per team 
@@ -980,7 +980,7 @@ brighton_players.reset_index(inplace=True, drop=True) # the index will keep rest
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"44","season":"2021","page":"1"} # change page no to find other players per team 
@@ -1080,7 +1080,7 @@ burnley_players1 = burnley_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"44","season":"2021","page":"2"} # change page no to find other players per team 
@@ -1194,7 +1194,7 @@ burnley_players.reset_index(inplace=True, drop=True) # the index will keep resta
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"49","season":"2021","page":"1"} # change page no to find other players per team 
@@ -1294,7 +1294,7 @@ chelsea_players1 = chelsea_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"49","season":"2021","page":"2"} # change page no to find other players per team 
@@ -1390,7 +1390,7 @@ chelsea_players2 = chelsea_players2.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"49","season":"2021","page":"3"} # change page no to find other players per team 
@@ -1495,7 +1495,7 @@ chelsea_players.reset_index(inplace=True, drop=True) # the index will keep resta
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"52","season":"2021","page":"1"} # change page no to find other players per team 
@@ -1595,7 +1595,7 @@ crystal_palace_players1 = crystal_palace_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"52","season":"2021","page":"2"} # change page no to find other players per team 
@@ -1707,7 +1707,7 @@ crystal_palace_players.reset_index(inplace=True, drop=True) # the index will kee
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"45","season":"2021","page":"1"} # change page no to find other players per team 
@@ -1807,7 +1807,7 @@ everton_players1 = everton_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"45","season":"2021","page":"2"} # change page no to find other players per team 
@@ -1919,7 +1919,7 @@ everton_players.reset_index(inplace=True, drop=True) # the index will keep resta
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"63","season":"2021","page":"1"} # change page no to find other players per team 
@@ -2019,7 +2019,7 @@ leeds_players1 = leeds_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"63","season":"2021","page":"2"} # change page no to find other players per team 
@@ -2130,7 +2130,7 @@ leeds_players.reset_index(inplace=True, drop=True) # the index will keep restart
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"46","season":"2021","page":"1"} # change page no to find other players per team 
@@ -2230,7 +2230,7 @@ leicester_players1 = leicester_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"46","season":"2021","page":"2"} # change page no to find other players per team 
@@ -2346,7 +2346,7 @@ leicester_players.reset_index(inplace=True, drop=True) # the index will keep res
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"40","season":"2021","page":"1"} # change page no to find other players per team 
@@ -2446,7 +2446,7 @@ liverpool_players1 = liverpool_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"40","season":"2021","page":"2"} # change page no to find other players per team 
@@ -2560,7 +2560,7 @@ liverpool_players.reset_index(inplace=True, drop=True) # the index will keep res
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"50","season":"2021","page":"1"} # change page no to find other players per team 
@@ -2660,7 +2660,7 @@ man_city_players1 = man_city_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"50","season":"2021","page":"2"} # change page no to find other players per team 
@@ -2778,7 +2778,7 @@ man_city_players.reset_index(inplace=True, drop=True) # the index will keep rest
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"33","season":"2021","page":"1"} # change page no to find other players per team 
@@ -2878,7 +2878,7 @@ man_utd_players1 = man_utd_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"33","season":"2021","page":"2"} # change page no to find other players per team 
@@ -2974,7 +2974,7 @@ man_utd_players2 = man_utd_players2.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"33","season":"2021","page":"3"} # change page no to find other players per team 
@@ -3079,7 +3079,7 @@ man_utd_players.reset_index(inplace=True, drop=True) # the index will keep resta
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"34","season":"2021","page":"1"} # change page no to find other players per team 
@@ -3179,7 +3179,7 @@ newcastle_players1 = newcastle_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"34","season":"2021","page":"2"} # change page no to find other players per team 
@@ -3291,7 +3291,7 @@ newcastle_players.reset_index(inplace=True, drop=True) # the index will keep res
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"71","season":"2021","page":"1"} # change page no to find other players per team 
@@ -3391,7 +3391,7 @@ norwich_players1 = norwich_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"71","season":"2021","page":"2"} # change page no to find other players per team 
@@ -3503,7 +3503,7 @@ norwich_players.reset_index(inplace=True, drop=True) # the index will keep resta
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"41","season":"2021","page":"1"} # change page no to find other players per team 
@@ -3603,7 +3603,7 @@ southampton_players1 = southampton_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"41","season":"2021","page":"2"} # change page no to find other players per team 
@@ -3714,7 +3714,7 @@ southampton_players.reset_index(inplace=True, drop=True) # the index will keep r
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"47","season":"2021","page":"1"} # change page no to find other players per team 
@@ -3814,7 +3814,7 @@ spurs_players1 = spurs_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"47","season":"2021","page":"2"} # change page no to find other players per team 
@@ -3927,7 +3927,7 @@ spurs_players.reset_index(inplace=True, drop=True) # the index will keep restart
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"38","season":"2021","page":"1"} # change page no to find other players per team 
@@ -4027,7 +4027,7 @@ watford_players1 = watford_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"38","season":"2021","page":"2"} # change page no to find other players per team 
@@ -4140,7 +4140,7 @@ watford_players.reset_index(inplace=True, drop=True) # the index will keep resta
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"48","season":"2021","page":"1"} # change page no to find other players per team 
@@ -4240,7 +4240,7 @@ west_ham_players1 = west_ham_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"48","season":"2021","page":"2"} # change page no to find other players per team 
@@ -4351,7 +4351,7 @@ west_ham_players.reset_index(inplace=True, drop=True) # the index will keep rest
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"39","season":"2021","page":"1"} # change page no to find other players per team 
@@ -4451,7 +4451,7 @@ wolves_players1 = wolves_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"39","season":"2021","page":"2"} # change page no to find other players per team 
@@ -4591,7 +4591,7 @@ prem_league_players = pd.concat([arsenal_players,
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"167","season":"2021","page":"1"} # change page no to find other players per team 
@@ -4691,7 +4691,7 @@ hoffenheim_players1 = hoffenheim_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"167","season":"2021","page":"2"} # change page no to find other players per team 
@@ -4803,7 +4803,7 @@ hoffenheim_players.reset_index(inplace=True, drop=True) # the index will keep re
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"188","season":"2021","page":"1"} # change page no to find other players per team 
@@ -4903,7 +4903,7 @@ bielefeld_players1 = bielefeld_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"188","season":"2021","page":"2"} # change page no to find other players per team 
@@ -5015,7 +5015,7 @@ bielefeld_players.reset_index(inplace=True, drop=True) # the index will keep res
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"168","season":"2021","page":"1"} # change page no to find other players per team 
@@ -5115,7 +5115,7 @@ leverkusen_players1 = leverkusen_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"168","season":"2021","page":"2"} # change page no to find other players per team 
@@ -5225,7 +5225,7 @@ leverkusen_players.reset_index(inplace=True, drop=True) # the index will keep re
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"157","season":"2021","page":"1"} # change page no to find other players per team 
@@ -5325,7 +5325,7 @@ bayern_munich_players1 = bayern_munich_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"157","season":"2021","page":"2"} # change page no to find other players per team 
@@ -5439,7 +5439,7 @@ bayern_munich_players.reset_index(inplace=True, drop=True) # the index will keep
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"165","season":"2021","page":"1"} # change page no to find other players per team 
@@ -5539,7 +5539,7 @@ dortmund_players1 = dortmund_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"165","season":"2021","page":"2"} # change page no to find other players per team 
@@ -5650,7 +5650,7 @@ dortmund_players.reset_index(inplace=True, drop=True) # the index will keep rest
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"163","season":"2021","page":"1"} # change page no to find other players per team 
@@ -5750,7 +5750,7 @@ monchengladbach_players1 = monchengladbach_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"163","season":"2021","page":"2"} # change page no to find other players per team 
@@ -5861,7 +5861,7 @@ monchengladbach_players.reset_index(inplace=True, drop=True) # the index will ke
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"169","season":"2021","page":"1"} # change page no to find other players per team 
@@ -5961,7 +5961,7 @@ frankfurt_players1 = frankfurt_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"169","season":"2021","page":"2"} # change page no to find other players per team 
@@ -6071,7 +6071,7 @@ frankfurt_players.reset_index(inplace=True, drop=True) # the index will keep res
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"169","season":"2021","page":"1"} # change page no to find other players per team 
@@ -6171,7 +6171,7 @@ augsburg_players1 = augsburg_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"169","season":"2021","page":"2"} # change page no to find other players per team 
@@ -6281,7 +6281,7 @@ augsburg_players.reset_index(inplace=True, drop=True) # the index will keep rest
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"192","season":"2021","page":"1"} # change page no to find other players per team 
@@ -6381,7 +6381,7 @@ koln_players1 = koln_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"192","season":"2021","page":"2"} # change page no to find other players per team 
@@ -6491,7 +6491,7 @@ koln_players.reset_index(inplace=True, drop=True) # the index will keep restarti
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"164","season":"2021","page":"1"} # change page no to find other players per team 
@@ -6591,7 +6591,7 @@ mainz_players1 = mainz_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"164","season":"2021","page":"2"} # change page no to find other players per team 
@@ -6699,7 +6699,7 @@ mainz_players.reset_index(inplace=True, drop=True) # the index will keep restart
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"159","season":"2021","page":"1"} # change page no to find other players per team 
@@ -6799,7 +6799,7 @@ hertha_berlin_players1 = hertha_berlin_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"159","season":"2021","page":"2"} # change page no to find other players per team 
@@ -6908,7 +6908,7 @@ hertha_berlin_players.reset_index(inplace=True, drop=True) # the index will keep
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"173","season":"2021","page":"1"} # change page no to find other players per team 
@@ -7008,7 +7008,7 @@ leipzig_players1 = leipzig_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"173","season":"2021","page":"2"} # change page no to find other players per team 
@@ -7120,7 +7120,7 @@ leipzig_players.reset_index(inplace=True, drop=True) # the index will keep resta
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"160","season":"2021","page":"1"} # change page no to find other players per team 
@@ -7220,7 +7220,7 @@ freiburg_players1 = freiburg_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"160","season":"2021","page":"2"} # change page no to find other players per team 
@@ -7332,7 +7332,7 @@ freiburg_players.reset_index(inplace=True, drop=True) # the index will keep rest
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"178","season":"2021","page":"1"} # change page no to find other players per team 
@@ -7432,7 +7432,7 @@ greuther_furth_players1 = greuther_furth_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"178","season":"2021","page":"2"} # change page no to find other players per team 
@@ -7548,7 +7548,7 @@ greuther_furth_players.reset_index(inplace=True, drop=True) # the index will kee
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"182","season":"2021","page":"1"} # change page no to find other players per team 
@@ -7648,7 +7648,7 @@ union_berlin_players1 = union_berlin_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"182","season":"2021","page":"2"} # change page no to find other players per team 
@@ -7762,7 +7762,7 @@ union_berlin_players.reset_index(inplace=True, drop=True) # the index will keep 
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"172","season":"2021","page":"1"} # change page no to find other players per team 
@@ -7862,7 +7862,7 @@ stuttgart_players1 = stuttgart_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"172","season":"2021","page":"2"} # change page no to find other players per team 
@@ -7977,7 +7977,7 @@ stuttgart_players.reset_index(inplace=True, drop=True) # the index will keep res
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"176","season":"2021","page":"1"} # change page no to find other players per team 
@@ -8077,7 +8077,7 @@ vfl_bochum_players1 = vfl_bochum_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"176","season":"2021","page":"2"} # change page no to find other players per team 
@@ -8191,7 +8191,7 @@ vfl_bochum_players.reset_index(inplace=True, drop=True) # the index will keep re
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"161","season":"2021","page":"1"} # change page no to find other players per team 
@@ -8291,7 +8291,7 @@ wolfsburg_players1 = wolfsburg_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"161","season":"2021","page":"2"} # change page no to find other players per team 
@@ -8430,7 +8430,7 @@ bundesliga_players = pd.concat([hoffenheim_players,
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"542","season":"2021","page":"1"} # change page no to find other players per team 
@@ -8530,7 +8530,7 @@ alaves_players1 = alaves_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"542","season":"2021","page":"2"} # change page no to find other players per team 
@@ -8642,7 +8642,7 @@ alaves_players.reset_index(inplace=True, drop=True) # the index will keep restar
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"531","season":"2021","page":"1"} # change page no to find other players per team 
@@ -8742,7 +8742,7 @@ athletic_club_players1 = athletic_club_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"531","season":"2021","page":"2"} # change page no to find other players per team 
@@ -8859,7 +8859,7 @@ athletic_club_players.reset_index(inplace=True, drop=True) # the index will keep
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"530","season":"2021","page":"1"} # change page no to find other players per team 
@@ -8959,7 +8959,7 @@ athletico_madrid_players1 = athletico_madrid_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"530","season":"2021","page":"2"} # change page no to find other players per team 
@@ -9073,7 +9073,7 @@ athletico_madrid_players.reset_index(inplace=True, drop=True) # the index will k
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"529","season":"2021","page":"1"} # change page no to find other players per team 
@@ -9173,7 +9173,7 @@ barcelona_players1 = barcelona_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"529","season":"2021","page":"2"} # change page no to find other players per team 
@@ -9288,7 +9288,7 @@ barcelona_players.reset_index(inplace=True, drop=True) # the index will keep res
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"724","season":"2021","page":"1"} # change page no to find other players per team 
@@ -9388,7 +9388,7 @@ cadiz_players1 = cadiz_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"724","season":"2021","page":"2"} # change page no to find other players per team 
@@ -9502,7 +9502,7 @@ cadiz_players.reset_index(inplace=True, drop=True) # the index will keep restart
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"538","season":"2021","page":"1"} # change page no to find other players per team 
@@ -9602,7 +9602,7 @@ celta_vigo_players1 = celta_vigo_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"538","season":"2021","page":"2"} # change page no to find other players per team 
@@ -9720,7 +9720,7 @@ celta_vigo_players.reset_index(inplace=True, drop=True) # the index will keep re
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"797","season":"2021","page":"1"} # change page no to find other players per team 
@@ -9820,7 +9820,7 @@ elche_players1 = elche_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"797","season":"2021","page":"2"} # change page no to find other players per team 
@@ -9933,7 +9933,7 @@ elche_players.reset_index(inplace=True, drop=True) # the index will keep restart
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"540","season":"2021","page":"1"} # change page no to find other players per team 
@@ -10033,7 +10033,7 @@ espanyol_players1 = espanyol_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"540","season":"2021","page":"2"} # change page no to find other players per team 
@@ -10149,7 +10149,7 @@ espanyol_players.reset_index(inplace=True, drop=True) # the index will keep rest
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"546","season":"2021","page":"1"} # change page no to find other players per team 
@@ -10249,7 +10249,7 @@ getafe_players1 = getafe_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"546","season":"2021","page":"2"} # change page no to find other players per team 
@@ -10371,7 +10371,7 @@ getafe_players.reset_index(inplace=True, drop=True) # the index will keep restar
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"715","season":"2021","page":"1"} # change page no to find other players per team 
@@ -10471,7 +10471,7 @@ granada_players1 = granada_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"715","season":"2021","page":"2"} # change page no to find other players per team 
@@ -10587,7 +10587,7 @@ granada_players.reset_index(inplace=True, drop=True) # the index will keep resta
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"539","season":"2021","page":"1"} # change page no to find other players per team 
@@ -10687,7 +10687,7 @@ levante_players1 = levante_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"539","season":"2021","page":"2"} # change page no to find other players per team 
@@ -10801,7 +10801,7 @@ levante_players.reset_index(inplace=True, drop=True) # the index will keep resta
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"798","season":"2021","page":"1"} # change page no to find other players per team 
@@ -10901,7 +10901,7 @@ mallorca_players1 = mallorca_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"798","season":"2021","page":"2"} # change page no to find other players per team 
@@ -11015,7 +11015,7 @@ mallorca_players.reset_index(inplace=True, drop=True) # the index will keep rest
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"727","season":"2021","page":"1"} # change page no to find other players per team 
@@ -11115,7 +11115,7 @@ osasuna_players1 = osasuna_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"727","season":"2021","page":"2"} # change page no to find other players per team 
@@ -11232,7 +11232,7 @@ osasuna_players.reset_index(inplace=True, drop=True) # the index will keep resta
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"728","season":"2021","page":"1"} # change page no to find other players per team 
@@ -11332,7 +11332,7 @@ rayo_vallecano_players1 = rayo_vallecano_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"728","season":"2021","page":"2"} # change page no to find other players per team 
@@ -11446,7 +11446,7 @@ rayo_vallecano_players.reset_index(inplace=True, drop=True) # the index will kee
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"543","season":"2021","page":"1"} # change page no to find other players per team 
@@ -11546,7 +11546,7 @@ real_betis_players1 = real_betis_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"543","season":"2021","page":"2"} # change page no to find other players per team 
@@ -11662,7 +11662,7 @@ real_betis_players.reset_index(inplace=True, drop=True) # the index will keep re
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"541","season":"2021","page":"1"} # change page no to find other players per team 
@@ -11762,7 +11762,7 @@ real_madrid_players1 = real_madrid_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"541","season":"2021","page":"2"} # change page no to find other players per team 
@@ -11876,7 +11876,7 @@ real_madrid_players.reset_index(inplace=True, drop=True) # the index will keep r
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"548","season":"2021","page":"1"} # change page no to find other players per team 
@@ -11976,7 +11976,7 @@ real_sociedad_players1 = real_sociedad_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"548","season":"2021","page":"2"} # change page no to find other players per team 
@@ -12092,7 +12092,7 @@ real_sociedad_players.reset_index(inplace=True, drop=True) # the index will keep
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"536","season":"2021","page":"1"} # change page no to find other players per team 
@@ -12192,7 +12192,7 @@ sevilla_players1 = sevilla_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"536","season":"2021","page":"2"} # change page no to find other players per team 
@@ -12308,7 +12308,7 @@ sevilla_players.reset_index(inplace=True, drop=True) # the index will keep resta
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"532","season":"2021","page":"1"} # change page no to find other players per team 
@@ -12408,7 +12408,7 @@ valencia_players1 = valencia_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"532","season":"2021","page":"2"} # change page no to find other players per team 
@@ -12524,7 +12524,7 @@ valencia_players.reset_index(inplace=True, drop=True) # the index will keep rest
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"533","season":"2021","page":"1"} # change page no to find other players per team 
@@ -12624,7 +12624,7 @@ villareal_players1 = villareal_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"533","season":"2021","page":"2"} # change page no to find other players per team 
@@ -12773,7 +12773,7 @@ la_liga_players = pd.concat([alaves_players,
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"489","season":"2021","page":"1"} # change page no to find other players per team 
@@ -12873,7 +12873,7 @@ ac_milan_players1 = ac_milan_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"489","season":"2021","page":"2"} # change page no to find other players per team 
@@ -12986,7 +12986,7 @@ ac_milan_players.reset_index(inplace=True, drop=True) # the index will keep rest
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"497","season":"2021","page":"1"} # change page no to find other players per team 
@@ -13086,7 +13086,7 @@ roma_players1 = roma_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"497","season":"2021","page":"2"} # change page no to find other players per team 
@@ -13199,7 +13199,7 @@ roma_players.reset_index(inplace=True, drop=True) # the index will keep restarti
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"499","season":"2021","page":"1"} # change page no to find other players per team 
@@ -13299,7 +13299,7 @@ atalanta_players1 = atalanta_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"499","season":"2021","page":"2"} # change page no to find other players per team 
@@ -13414,7 +13414,7 @@ atalanta_players.reset_index(inplace=True, drop=True) # the index will keep rest
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"500","season":"2021","page":"1"} # change page no to find other players per team 
@@ -13514,7 +13514,7 @@ bologna_players1 = bologna_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"500","season":"2021","page":"2"} # change page no to find other players per team 
@@ -13628,7 +13628,7 @@ bologna_players.reset_index(inplace=True, drop=True) # the index will keep resta
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"490","season":"2021","page":"1"} # change page no to find other players per team 
@@ -13728,7 +13728,7 @@ cagliari_players1 = cagliari_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"490","season":"2021","page":"2"} # change page no to find other players per team 
@@ -13844,7 +13844,7 @@ cagliari_players.reset_index(inplace=True, drop=True) # the index will keep rest
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"511","season":"2021","page":"1"} # change page no to find other players per team 
@@ -13944,7 +13944,7 @@ empoli_players1 = empoli_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"511","season":"2021","page":"2"} # change page no to find other players per team 
@@ -14058,7 +14058,7 @@ empoli_players.reset_index(inplace=True, drop=True) # the index will keep restar
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"502","season":"2021","page":"1"} # change page no to find other players per team 
@@ -14158,7 +14158,7 @@ fiorentina_players1 = fiorentina_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"502","season":"2021","page":"2"} # change page no to find other players per team 
@@ -14272,7 +14272,7 @@ fiorentina_players.reset_index(inplace=True, drop=True) # the index will keep re
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"495","season":"2021","page":"1"} # change page no to find other players per team 
@@ -14372,7 +14372,7 @@ genoa_players1 = genoa_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"495","season":"2021","page":"2"} # change page no to find other players per team 
@@ -14489,7 +14489,7 @@ genoa_players.reset_index(inplace=True, drop=True) # the index will keep restart
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"505","season":"2021","page":"1"} # change page no to find other players per team 
@@ -14589,7 +14589,7 @@ inter_milan_players1 = inter_milan_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"505","season":"2021","page":"2"} # change page no to find other players per team 
@@ -14702,7 +14702,7 @@ inter_milan_players.reset_index(inplace=True, drop=True) # the index will keep r
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"496","season":"2021","page":"1"} # change page no to find other players per team 
@@ -14802,7 +14802,7 @@ juventus_players1 = juventus_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"496","season":"2021","page":"2"} # change page no to find other players per team 
@@ -14921,7 +14921,7 @@ juventus_players.reset_index(inplace=True, drop=True) # the index will keep rest
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"487","season":"2021","page":"1"} # change page no to find other players per team 
@@ -15021,7 +15021,7 @@ lazio_players1 = lazio_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"487","season":"2021","page":"2"} # change page no to find other players per team 
@@ -15135,7 +15135,7 @@ lazio_players.reset_index(inplace=True, drop=True) # the index will keep restart
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"492","season":"2021","page":"1"} # change page no to find other players per team 
@@ -15235,7 +15235,7 @@ napoli_players1 = napoli_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"492","season":"2021","page":"2"} # change page no to find other players per team 
@@ -15352,7 +15352,7 @@ napoli_players.reset_index(inplace=True, drop=True) # the index will keep restar
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"514","season":"2021","page":"1"} # change page no to find other players per team 
@@ -15452,7 +15452,7 @@ salernitana_players1 = salernitana_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"514","season":"2021","page":"2"} # change page no to find other players per team 
@@ -15568,7 +15568,7 @@ salernitana_players.reset_index(inplace=True, drop=True) # the index will keep r
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"498","season":"2021","page":"1"} # change page no to find other players per team 
@@ -15668,7 +15668,7 @@ sampdoria_players1 = sampdoria_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"498","season":"2021","page":"2"} # change page no to find other players per team 
@@ -15782,7 +15782,7 @@ sampdoria_players.reset_index(inplace=True, drop=True) # the index will keep res
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"488","season":"2021","page":"1"} # change page no to find other players per team 
@@ -15882,7 +15882,7 @@ sassuolo_players1 = sassuolo_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"488","season":"2021","page":"2"} # change page no to find other players per team 
@@ -15998,7 +15998,7 @@ sassuolo_players.reset_index(inplace=True, drop=True) # the index will keep rest
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"515","season":"2021","page":"1"} # change page no to find other players per team 
@@ -16098,7 +16098,7 @@ spezia_players1 = spezia_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"515","season":"2021","page":"2"} # change page no to find other players per team 
@@ -16212,7 +16212,7 @@ spezia_players.reset_index(inplace=True, drop=True) # the index will keep restar
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"503","season":"2021","page":"1"} # change page no to find other players per team 
@@ -16312,7 +16312,7 @@ torino_players1 = torino_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"503","season":"2021","page":"2"} # change page no to find other players per team 
@@ -16428,7 +16428,7 @@ torino_players.reset_index(inplace=True, drop=True) # the index will keep restar
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"494","season":"2021","page":"1"} # change page no to find other players per team 
@@ -16528,7 +16528,7 @@ udinese_players1 = udinese_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"494","season":"2021","page":"2"} # change page no to find other players per team 
@@ -16641,7 +16641,7 @@ udinese_players.reset_index(inplace=True, drop=True) # the index will keep resta
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"517","season":"2021","page":"1"} # change page no to find other players per team 
@@ -16741,7 +16741,7 @@ venezia_players1 = venezia_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"517","season":"2021","page":"2"} # change page no to find other players per team 
@@ -16856,7 +16856,7 @@ venezia_players.reset_index(inplace=True, drop=True) # the index will keep resta
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"504","season":"2021","page":"1"} # change page no to find other players per team 
@@ -16956,7 +16956,7 @@ verona_players1 = verona_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"504","season":"2021","page":"2"} # change page no to find other players per team 
@@ -17098,7 +17098,7 @@ serie_a_players = pd.concat([ac_milan_players,
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"504","season":"2021","page":"1"} # change page no to find other players per team 
@@ -17198,7 +17198,7 @@ angers_players1 = angers_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"504","season":"2021","page":"2"} # change page no to find other players per team 
@@ -17311,7 +17311,7 @@ angers_players.reset_index(inplace=True, drop=True) # the index will keep restar
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"78","season":"2021","page":"1"} # change page no to find other players per team 
@@ -17411,7 +17411,7 @@ bordeaux_players1 = bordeaux_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"78","season":"2021","page":"2"} # change page no to find other players per team 
@@ -17525,7 +17525,7 @@ bordeaux_players.reset_index(inplace=True, drop=True) # the index will keep rest
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"99","season":"2021","page":"1"} # change page no to find other players per team 
@@ -17625,7 +17625,7 @@ clermont_foot_players1 = clermont_foot_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"99","season":"2021","page":"2"} # change page no to find other players per team 
@@ -17740,7 +17740,7 @@ clermont_foot_players.reset_index(inplace=True, drop=True) # the index will keep
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"110","season":"2021","page":"1"} # change page no to find other players per team 
@@ -17840,7 +17840,7 @@ estac_troyes_players1 = estac_troyes_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"110","season":"2021","page":"2"} # change page no to find other players per team 
@@ -17952,7 +17952,7 @@ estac_troyes_players.reset_index(inplace=True, drop=True) # the index will keep 
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"116","season":"2021","page":"1"} # change page no to find other players per team 
@@ -18052,7 +18052,7 @@ lens_players1 = lens_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"116","season":"2021","page":"2"} # change page no to find other players per team 
@@ -18169,7 +18169,7 @@ lens_players.reset_index(inplace=True, drop=True) # the index will keep restarti
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"79","season":"2021","page":"1"} # change page no to find other players per team 
@@ -18269,7 +18269,7 @@ lille_players1 = lille_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"79","season":"2021","page":"2"} # change page no to find other players per team 
@@ -18384,7 +18384,7 @@ lille_players.reset_index(inplace=True, drop=True) # the index will keep restart
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"97","season":"2021","page":"1"} # change page no to find other players per team 
@@ -18484,7 +18484,7 @@ lorient_players1 = lorient_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"97","season":"2021","page":"2"} # change page no to find other players per team 
@@ -18598,7 +18598,7 @@ lorient_players.reset_index(inplace=True, drop=True) # the index will keep resta
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"80","season":"2021","page":"1"} # change page no to find other players per team 
@@ -18698,7 +18698,7 @@ lyon_players1 = lyon_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"80","season":"2021","page":"2"} # change page no to find other players per team 
@@ -18815,7 +18815,7 @@ lyon_players.reset_index(inplace=True, drop=True) # the index will keep restarti
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"81","season":"2021","page":"1"} # change page no to find other players per team 
@@ -18915,7 +18915,7 @@ marseille_players1 = marseille_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"81","season":"2021","page":"2"} # change page no to find other players per team 
@@ -19030,7 +19030,7 @@ marseille_players.reset_index(inplace=True, drop=True) # the index will keep res
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"112","season":"2021","page":"1"} # change page no to find other players per team 
@@ -19130,7 +19130,7 @@ metz_players1 = metz_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"112","season":"2021","page":"2"} # change page no to find other players per team 
@@ -19248,7 +19248,7 @@ metz_players.reset_index(inplace=True, drop=True) # the index will keep restarti
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"91","season":"2021","page":"1"} # change page no to find other players per team 
@@ -19348,7 +19348,7 @@ monaco_players1 = monaco_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"91","season":"2021","page":"2"} # change page no to find other players per team 
@@ -19464,7 +19464,7 @@ monaco_players.reset_index(inplace=True, drop=True) # the index will keep restar
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"82","season":"2021","page":"1"} # change page no to find other players per team 
@@ -19564,7 +19564,7 @@ montpellier_players1 = montpellier_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"82","season":"2021","page":"2"} # change page no to find other players per team 
@@ -19678,7 +19678,7 @@ montpellier_players.reset_index(inplace=True, drop=True) # the index will keep r
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"83","season":"2021","page":"1"} # change page no to find other players per team 
@@ -19778,7 +19778,7 @@ nantes_players1 = nantes_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"83","season":"2021","page":"2"} # change page no to find other players per team 
@@ -19891,7 +19891,7 @@ nantes_players.reset_index(inplace=True, drop=True) # the index will keep restar
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"84","season":"2021","page":"1"} # change page no to find other players per team 
@@ -19991,7 +19991,7 @@ nice_players1 = nice_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"84","season":"2021","page":"2"} # change page no to find other players per team 
@@ -20109,7 +20109,7 @@ nice_players.reset_index(inplace=True, drop=True) # the index will keep restarti
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"85","season":"2021","page":"1"} # change page no to find other players per team 
@@ -20209,7 +20209,7 @@ psg_players1 = psg_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"85","season":"2021","page":"2"} # change page no to find other players per team 
@@ -20325,7 +20325,7 @@ psg_players.reset_index(inplace=True, drop=True) # the index will keep restartin
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"93","season":"2021","page":"1"} # change page no to find other players per team 
@@ -20425,7 +20425,7 @@ reims_players1 = reims_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"93","season":"2021","page":"2"} # change page no to find other players per team 
@@ -20538,7 +20538,7 @@ reims_players.reset_index(inplace=True, drop=True) # the index will keep restart
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"94","season":"2021","page":"1"} # change page no to find other players per team 
@@ -20638,7 +20638,7 @@ rennes_players1 = rennes_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"94","season":"2021","page":"2"} # change page no to find other players per team 
@@ -20752,7 +20752,7 @@ rennes_players.reset_index(inplace=True, drop=True) # the index will keep restar
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"1063","season":"2021","page":"1"} # change page no to find other players per team 
@@ -20852,7 +20852,7 @@ saint_etienne_players1 = saint_etienne_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"1063","season":"2021","page":"2"} # change page no to find other players per team 
@@ -20966,7 +20966,7 @@ saint_etienne_players.reset_index(inplace=True, drop=True) # the index will keep
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"106","season":"2021","page":"1"} # change page no to find other players per team 
@@ -21066,7 +21066,7 @@ stade_brestois_players1 = stade_brestois_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"106","season":"2021","page":"2"} # change page no to find other players per team 
@@ -21184,7 +21184,7 @@ stade_brestois_players.reset_index(inplace=True, drop=True) # the index will kee
 # Get the list of players per team in each European league 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"95","season":"2021","page":"1"} # change page no to find other players per team 
@@ -21284,7 +21284,7 @@ strasbourg_players1 = strasbourg_players1.fillna(0)
 
 
 API_HOST = "api-football-v1.p.rapidapi.com"
-API_KEY = "5883cc35b5msh2fa28b6451a6f1cp15299cjsnea73454ab5ff"
+API_KEY = "---"
 
 url = "https://api-football-v1.p.rapidapi.com/v3/players"
 querystring = {"team":"95","season":"2021","page":"2"} # change page no to find other players per team 
