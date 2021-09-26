@@ -21,7 +21,7 @@ import explode
 # Let's return the Premier League table in this instance
 
 
-url = "https://api-football-v1.p.rapidapi.com/v3/standings"
+url = "-----"
 querystring = {"season":"2021","league":"39"}
 
 headers = {
@@ -104,7 +104,7 @@ prem_league_table = df
 # Let's return the Bundesliga table in this instance
 
 
-url = "https://api-football-v1.p.rapidapi.com/v3/standings"
+url = "-----"
 querystring = {"season":"2021","league":"78"}
 
 headers = {
@@ -189,7 +189,7 @@ bundesliga_table = df
 # Let's return the La Liga table in this instance
 
 
-url = "https://api-football-v1.p.rapidapi.com/v3/standings"
+url = "-----"
 querystring = {"season":"2021","league":"140"}
 
 headers = {
@@ -275,7 +275,7 @@ la_liga_table = df
 # Let's return the Serie A table in this instance
 
 
-url = "https://api-football-v1.p.rapidapi.com/v3/standings"
+url = "-----"
 querystring = {"season":"2021","league":"135"}
 
 headers = {
@@ -362,7 +362,7 @@ serie_a_table = df
 # Let's return the Ligue 1 table in this instance
 
 
-url = "https://api-football-v1.p.rapidapi.com/v3/standings"
+url = "-----"
 querystring = {"season":"2021","league":"61"}
 
 headers = {
